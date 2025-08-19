@@ -1,63 +1,80 @@
-<h1 align="center">Hi 👋, I'm Yashika Tirkey</h1>
-<h3 align="center">🚀 Passionate about AI, Data Science & Full-Stack Development</h3>
+<!-- Banner -->
+<div align="center">
+  <img src="https://i.imgur.com/v9bYtO3.png" width="100%" alt="Purple Banner"/>
+</div>
+
+<h1 align="center">Hi 👋, I'm <span style="color:#b19cd9">Yashika Tirkey</span></h1>
+<h3 align="center">🚀 Aspiring Data Scientist | AI & Agentic AI Enthusiast | Cloud & DB Explorer</h3>
 
 ---
 
-🌟 **About Me**  
-- 🔭 Currently exploring **Agentic AI** and next-gen tools  
-- 💡 Skilled in **Python, SQL, MongoDB, ReactJS, Django, Flask, AI/ML, Generative AI, Docker, AWS**  
-- 🌱 Love building intelligent systems & modern applications  
-- 🎨 Favorite theme: **Purple with a touch of black ✨**  
+## 👩‍💻 About Me  
+- 🌱 Currently diving deep into **Agentic AI** and related tools  
+- ☁️ Skilled in **AWS (Cloud Services)** and **MongoDB (NoSQL DB)**  
+- 🐍 Strong in **Python, SQL, Machine Learning, Deep Learning, NLP**  
+- ⚡ I enjoy solving problems with **data-driven solutions**  
+- 🎯 Passionate about building intelligent, scalable applications  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 <div align="center">
 
-### 🚀 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-### ⚡ Frameworks & Libraries  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)  
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**ML / DL / Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 
-### 📊 Data & AI  
-![Machine Learning](https://img.shields.io/badge/ML-AI-purple?style=for-the-badge)  
-![Generative AI](https://img.shields.io/badge/GenAI-black?style=for-the-badge&logo=openai)  
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)  
-
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)  
+**Other Skills**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
 
-![Yashika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=radical&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=0d1117)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikart&layout=compact&theme=radical&title_color=9b59b6&text_color=ffffff&bg_color=0d1117)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashikart&theme=radical&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff&background=0d1117)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9b59b6&icon_color=9b59b6)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikart&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9b59b6)  
 
 </div>
 
 ---
 
-## ✨ Fun Touch
+## 🌟 Currently Learning  
+
+- 🤖 **Agentic AI**  
+- 📡 **Cloud & Database Scaling (AWS + MongoDB)**  
+- 📈 **Advanced ML/DL techniques for real-world data**  
+
+---
+
+## 📬 Connect With Me  
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/yashikatr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashikatrikey23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/yashikart"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
-🌌 *"Turning data into intelligence, and intelligence into innovation"* 🚀  
+---
 
-![Purple Wave](https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=footer)
+<div align="center">
+  
+💜 *“Code, Learn, Build & Repeat — growing every day with data and AI!”* 💜  
 
 </div>
