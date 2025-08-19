@@ -1,69 +1,50 @@
-<!-- Banner -->
+<!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Yashika%20Tirkey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Yashika%20Tirkey&fontAlign=50&fontAlignY=40&color=8e44ad&fontColor=ffffff&desc=AI%20Intern%20%7C%20Data%20Science%20Explorer%20%7C%20Futuristic%20Builder&descAlign=50&descAlignY=60"/>
 </p>
 
 <!-- Typing Effect -->
 <p align="center">
-  <a href="https://github.com/yashikart">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+Intern+%40+Blackhole+Infiverse;Python+%7C+SQL+%7C+MongoDB+%7C+AWS;Django+%7C+Flask+%7C+ReactJS+%7C+Docker;AI%2FML+%7C+Gen+AI+%7C+Agentic+AI;Aspiring+Data+Scientist+%26+AI+Engineer"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=BC83F5&center=true&vCenter=true&width=600&lines=AI+Intern+@+Blackhole+Infiverse;Aspiring+Data+Scientist+%26+AI+Engineer;Exploring+Agentic+AI+%26+LLMs;Lover+of+Dark+Purple+%26+Futuristic+Designs" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-- 🌌 **AI Intern @ Blackhole Infiverse**  
-- ⚡ Exploring **Agentic AI & futuristic AI tooling**  
-- 💡 Passionate about **Data Science, Machine Learning & Generative AI**  
-- ☁ Skilled in **AWS, Docker, and Cloud architectures**  
-- 🎨 Aesthetics: **Dark Purple × Futuristic Designs**  
-- 🚀 Always learning, building, and contributing to **open-source AI**  
+### 🚀 About Me  
+- 🌌 Currently working as **AI Intern @ Blackhole Infiverse**  
+- 🤖 Building skills in **Agentic AI, LLMs & Generative AI**  
+- 🐍 Proficient in **Python, SQL, MongoDB, Flask, Django, ReactJS, Docker, AWS**  
+- 🔬 Love exploring **AI/ML, Data Science, and Intelligent Systems**  
+- 🎨 Passionate about **dark purple futuristic aesthetics & interactive design**  
+- 📡 Always curious, always experimenting  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🚀 Languages & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🌐 Frameworks & Libraries  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🤖 AI & ML  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-800080?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-301934?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
+### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashikart&theme=midnight-purple&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,django,react,mongodb,aws,docker,git,github,html,css,js,sql" />
 </p>
 
 ---
 
-## 🏆 Fun Extras  
+### 🌌 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashikart&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashikart&bg_color=0f0f0f&color=8A2BE2&line=ba55d3&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BC83F5&icon_color=9b59b6" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashikart&theme=midnight-purple&hide_border=true&background=0D1117&ring=9b59b6&fire=BC83F5&currStreakLabel=ffffff" height="180" />
 </p>
 
 ---
 
-<!-- Footer Banner -->
+### ⚡ Fun Touch  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashikart&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest" />
+</p>
+
+---
+
+### 🌐 Let’s Connect!  
+<p align="center">
+  <a href="https://github.com/yashikart"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yashika-tirkey"><img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yashikatirkey@gmail.com"><img src="https://img.shields.io/badge/Email-9b59b6?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
