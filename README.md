@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Yashika%20Tirkey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Agentic%20AI&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Yashika%20Tirkey&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
