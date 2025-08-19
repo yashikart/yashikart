@@ -1,50 +1,65 @@
-<!-- Futuristic Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Yashika%20Tirkey&fontAlign=50&fontAlignY=40&color=8e44ad&fontColor=ffffff&desc=AI%20Intern%20%7C%20Data%20Science%20Explorer%20%7C%20Futuristic%20Builder&descAlign=50&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Yashika%20Tirkey&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Agentic%20AI&descAlignY=60&descAlign=50" />
 </p>
 
-<!-- Typing Effect -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=BC83F5&center=true&vCenter=true&width=600&lines=AI+Intern+@+Blackhole+Infiverse;Aspiring+Data+Scientist+%26+AI+Engineer;Exploring+Agentic+AI+%26+LLMs;Lover+of+Dark+Purple+%26+Futuristic+Designs" />
-</p>
-
----
-
-### 🚀 About Me  
-- 🌌 Currently working as **AI Intern @ Blackhole Infiverse**  
-- 🤖 Building skills in **Agentic AI, LLMs & Generative AI**  
-- 🐍 Proficient in **Python, SQL, MongoDB, Flask, Django, ReactJS, Docker, AWS**  
-- 🔬 Love exploring **AI/ML, Data Science, and Intelligent Systems**  
-- 🎨 Passionate about **dark purple futuristic aesthetics & interactive design**  
-- 📡 Always curious, always experimenting  
-
----
-
-### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,django,react,mongodb,aws,docker,git,github,html,css,js,sql" />
+  <a href="https://github.com/yashikart">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=AI+Intern+%40+BlackholeInfiverse;Passionate+about+Data+Science+%26+AI;Exploring+Agentic+AI+%26+LLMs;AWS+%7C+MongoDB+%7C+Python+%7C+SQL;Building+Futuristic+AI+Projects" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🌌 GitHub Stats & Activity  
+## 👩‍💻 About Me  
+🌌 AI Intern @ **BlackholeInfiverse**  
+💡 Passionate about **Agentic AI, LLMs, and futuristic tooling**  
+☁️ Skilled in **AWS | MongoDB | Python | SQL | Machine Learning | Deep Learning**  
+🚀 Exploring **AI Agents, Data Science Applications & Research**  
+🎨 Obsessed with **Dark Purple Aesthetics** & futuristic design  
+
+---
+
+## ⚡ Tech Stack  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BC83F5&icon_color=9b59b6" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashikart&theme=midnight-purple&hide_border=true&background=0D1117&ring=9b59b6&fire=BC83F5&currStreakLabel=ffffff" height="180" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,aws,git,github,docker,html,css,js" />
 </p>
 
 ---
 
-### ⚡ Fun Touch  
+## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashikart&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashikart&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🌐 Let’s Connect!  
+## 🌌 Fun Touch  
+
 <p align="center">
-  <a href="https://github.com/yashikart"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yashika-tirkey"><img src="https://img.shields.io/badge/LinkedIn-8e44ad?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yashikatirkey@gmail.com"><img src="https://img.shields.io/badge/Email-9b59b6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashikart&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="200px"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashika-tirkey"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashika.tirkey@example.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
 </p>
