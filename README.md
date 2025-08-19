@@ -1,63 +1,53 @@
-<!-- Yashika Tirkey | README.md -->
-
-![Purple Banner](https://i.ibb.co/wwM7z3g/purple-tech-banner.png)
-
-<h1 align="center">👩‍💻 Hey, I'm <span style="color:#b366ff;">Yashika Tirkey</span></h1>
-
+<!-- Banner -->
 <p align="center">
-  <b>AI Intern @ Blackhole Infiverse | Data Science & AI Explorer | Futuristic Tech Enthusiast</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=200&section=header&text=Yashika%20Tirkey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <a href="https://github.com/yashikart">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI+Intern+@+BlackholeInfiverse;Python+%7C+SQL+%7C+MongoDB;Django+%7C+Flask+%7C+ReactJS;AI+%26+Machine+Learning;Generative+AI+%7C+Agentic+AI;Cloud+%7C+Docker+%7C+AWS" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🎓 MSc Data Science Student | B.Sc IT Graduate  
-- 🤖 Currently working on **AI/ML, Gen AI, and Agentic AI**  
-- ☁️ Skilled in **Cloud (AWS)** & deployment with **Docker**  
-- 📊 Passion for **Data Analytics, Forecasting & Applied Machine Learning**  
-- 💡 Always curious about **LLMs, agentic AI tools, and futuristic innovations**    
+## 👩‍💻 About Me  
+🌌 Currently an **AI Intern at BlackholeInfiverse**  
+💜 Passionate about **Data Science, AI, and Agentic AI tools**  
+🚀 Exploring **Generative AI, ML/DL models, and futuristic AI systems**  
+☁ Skilled in **Cloud & DevOps (Docker, AWS)**  
+🎨 Love **dark purple aesthetics** & interactive designs  
 
 ---
 
-### 🛠️ Tech Stack  
-<div align="center">
-  
-💻 **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![ReactJS](https://img.shields.io/badge/ReactJS-61DBFB?style=for-the-badge&logo=react&logoColor=black)  
+## 🚀 Skills & Tools  
 
-⚡ **AI / ML / Tools**  
-![Machine Learning](https://img.shields.io/badge/ML-102770?style=for-the-badge&logo=tensorflow&logoColor=orange)  
-![Generative AI](https://img.shields.io/badge/GenAI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)  
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,mongodb,aws,docker,git,github,mysql,tensorflow,pytorch,vscode&theme=dark" />
+</p>
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
+## 📊 GitHub Stats  
 
-![Yashika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=radical&title_color=8e44ad&icon_color=9b59b6&bg_color=000000&hide_border=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikart&layout=compact&theme=radical&title_color=9b59b6&bg_color=000000&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8e2de2&icon_color=8e2de2" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashikart&theme=radical&hide_border=true&background=0d1117&stroke=8e2de2&ring=8e2de2&fire=8e2de2&currStreakLabel=8e2de2" height="180" />
+</p>
 
 ---
 
-### 🎶 Fun Touch  
-<div align="center">
+## 🌐 Connect With Me  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="Turning Ideas into Intelligent Systems 💡")
-
-![Snake animation](https://github.com/yashikart/yashikart/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+  <a href="https://github.com/yashikart"><img src="https://img.shields.io/badge/GitHub-8e2de2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yashika-tirkey"><img src="https://img.shields.io/badge/LinkedIn-8e2de2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=100&section=footer"/>
+</p>
