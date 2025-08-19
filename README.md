@@ -53,7 +53,6 @@
 ---
 
 ## 🏆 Fun Extras  
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashikart&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
