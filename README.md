@@ -59,8 +59,8 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashika-tirkey"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yashika.tirkey@example.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yashika-tirkey2001/"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:riyashika20@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/yashikart"><img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
