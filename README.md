@@ -1,82 +1,63 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=800080&height=200&section=header&text=Yashika%20Tirkey&fontSize=40&fontAlignY=35&fontColor=ffffff)
-
-# 🌌 Hi, I'm Yashika Tirkey  
-
-🎓 MSc Data Science Student | 💻 Aspiring AI Engineer | 🚀 Tech Explorer  
-
-> ⚡ Passionate about **AI, ML, and Generative AI**  
-> 🧑‍💻 Skilled in **Python, SQL, MongoDB, Django/Flask, React.js, Docker**  
-> 🌱 Currently diving deep into **Energy Forecasting & LLMs**  
+<h1 align="center">Hi 👋, I'm Yashika Tirkey</h1>
+<h3 align="center">🚀 Passionate about AI, Data Science & Full-Stack Development</h3>
 
 ---
 
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-800080?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-2E0854?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Django-4B0082?style=for-the-badge&logo=django&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Flask-8A2BE2?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-800080?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-2E0854?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+🌟 **About Me**  
+- 🔭 Currently exploring **Agentic AI** and next-gen tools  
+- 💡 Skilled in **Python, SQL, MongoDB, ReactJS, Django, Flask, AI/ML, Generative AI, Docker, AWS**  
+- 🌱 Love building intelligent systems & modern applications  
+- 🎨 Favorite theme: **Purple with a touch of black ✨**  
 
 ---
 
-## 🚀 Featured Projects  
+## 🛠️ Tech Stack
 
-### 🔬 Blood Group Detection Using Fingerprints  
-🩸 Deep learning system that predicts **ABO & Rh blood group** using fingerprint images.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashikart&repo=Blood-Group-Detection-Using-Fingerprints&theme=tokyonight)](https://github.com/yashikart/Blood-Group-Detection-Using-Fingerprints)  
+<div align="center">
 
----
+### 🚀 Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-### 📝 Clinical Note Generation from Doctor–Patient Conversations  
-🤖 Uses **LLMs** like MedAlpaca for automated **clinical note generation**, with metrics (**BLEU, ROUGE, BERTScore**).  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashikart&repo=Clinical-Note-Generation-from-Doctor-Patient-Conversations-using-LLM&theme=tokyonight)](https://github.com/yashikart/Clinical-Note-Generation-from-Doctor-Patient-Conversations-using-LLM)  
+### ⚡ Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)  
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+### 📊 Data & AI  
+![Machine Learning](https://img.shields.io/badge/ML-AI-purple?style=for-the-badge)  
+![Generative AI](https://img.shields.io/badge/GenAI-black?style=for-the-badge&logo=openai)  
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)  
 
-### 📈 Multivariate Time Series Analysis – Gold, Silver, Platinum  
-📊 Time-series forecasting using statistical + ML models on precious metal prices.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashikart&repo=Multivariate-Time-Series-Analysis-Gold-Silver-Platinum&theme=tokyonight)](https://github.com/yashikart/Multivariate-Time-Series-Analysis-Gold-Silver-Platinum)  
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)  
 
----
-
-### 🛒 Recommendation System (Graph-Based & Nearest Neighbors)  
-✨ Built a **recommendation system** on 30k+ reviews using clustering, topic modeling & anomaly detection.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashikart&repo=Recommendation-System-GraphBased-AND-NearestNeighbors&theme=tokyonight)](https://github.com/yashikart/Recommendation-System-GraphBased-AND-NearestNeighbors)  
-
----
-
-### 🔐 ML Violation Detection – Token Dump Analysis  
-⚡ Off-chain ML audit tool that flags **suspicious wallet behaviors** like rapid high-severity token dumps.  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashikart&repo=ML-Violation-Detection-Rapid-Token-Dump-Analysis&theme=tokyonight)](https://github.com/yashikart/ML-Violation-Detection-Rapid-Token-Dump-Analysis)  
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikart&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<div align="center">
 
----
+![Yashika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashikart&show_icons=true&theme=radical&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&bg_color=0d1117)  
 
-## 🌍 Connect with Me  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikart&layout=compact&theme=radical&title_color=9b59b6&text_color=ffffff&bg_color=0d1117)  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-4B0082?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-2E0854?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashikart&theme=radical&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff&background=0d1117)  
+
+</div>
 
 ---
 
-⭐️ *“Data + Code + Curiosity = Impactful Solutions”*  
+## ✨ Fun Touch
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=800080&height=100&section=footer)
+<div align="center">
+
+🌌 *"Turning data into intelligence, and intelligence into innovation"* 🚀  
+
+![Purple Wave](https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=footer)
+
+</div>
