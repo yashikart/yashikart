@@ -17,7 +17,6 @@
 💜 Passionate about **Data Science, AI, and Agentic AI tools**  
 🚀 Exploring **Generative AI, ML/DL models, and futuristic AI systems**  
 ☁ Skilled in **Cloud & DevOps (Docker, AWS)**  
-🎨 Love **dark purple aesthetics** & interactive designs  
 
 ---
 
